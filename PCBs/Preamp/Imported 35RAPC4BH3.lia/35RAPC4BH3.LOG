@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 35RAPC4BH3.LibPkg
+
+Section : D:\3d models\35RAPC4BH3.lia
+    Section : PCB Library - 35RAPC4BH3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 35RAPC4BH3 On Line 170
+            Warning - 1 : Skipping Token attachedSymbol On Line 277
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 35RAPC4BH3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 91
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 144
+            Warning - 1 : Skipping Token layerContents On Line 154
+        EndSection
+
+        Section : Generating SCH Library - 35RAPC4BH3.SchLib
+        EndSection
+    EndSection
+EndSection
